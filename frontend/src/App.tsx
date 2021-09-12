@@ -13,7 +13,7 @@ function App() {
 
         <div className="row px-3"> 
           <div className="col-sm-6">
-            <h5 className="text-center text-descondary">Taxa de Sucesso</h5>
+            <h5 className="text-center text-descondary">Taxa de Sucesso (%)</h5>
             <BarChart />
           </div>
           <div className="col-sm-6">
